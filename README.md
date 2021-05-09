@@ -46,4 +46,5 @@ __n x i = result__.
 
 ## Result of unit tests
 
+![image](https://user-images.githubusercontent.com/16018047/117557947-ee7c6700-b04e-11eb-9517-ee0a20d8f8cb.png)
 
